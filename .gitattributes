@@ -1,0 +1,7 @@
+# Force LF on shell scripts so they run on macOS / Linux even when committed from Windows.
+*.sh text eol=lf
+
+# Sensible defaults for everything else.
+* text=auto
+*.py text eol=lf
+*.bat text eol=crlf
