@@ -1,6 +1,6 @@
 # Zotero PDF Export
 
-> **A tiny GUI to bulk-export PDFs from your Zotero library — neatly named, ready for NotebookLM (or anywhere else).**
+> **A tiny GUI to bulk-export PDFs from your Zotero library into a flat folder, neatly named.**
 
 Zotero stores attachments under opaque hashed folders like `storage/GJK3WNFX/some-paper.pdf`, with no built-in way to grab a curated set of PDFs into a single folder. This tool fixes that:
 
@@ -8,7 +8,7 @@ Zotero stores attachments under opaque hashed folders like `storage/GJK3WNFX/som
 - **Tick the articles** you want — across as many collections as you like.
 - Click **Export** and get a flat folder of `Author Year Title.pdf` files.
 
-Perfect for feeding **NotebookLM**, sharing reading lists, building literature-review folders, or just rescuing PDFs into a sane structure.
+Handy for sharing reading lists, building literature-review folders, feeding the PDFs into another tool, or just rescuing them into a sane structure.
 
 ---
 
@@ -97,12 +97,6 @@ Auto-detected locations (first match wins):
 2. `~/Documents/Zotero` — common Windows alternative
 3. `~/Library/Application Support/Zotero` — macOS legacy
 4. `~/.zotero/zotero` — Linux legacy
-
----
-
-## 📝 NotebookLM tip
-
-NotebookLM has a per-notebook source cap (50 sources on free, 300 on Plus at the time of writing). The "Selected for export: N items" counter at the bottom of the window helps you stay under the limit while you pick.
 
 ---
 
