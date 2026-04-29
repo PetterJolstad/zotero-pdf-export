@@ -25,26 +25,7 @@ Perfect for feeding **NotebookLM**, sharing reading lists, building literature-r
 
 ## 🖼️ What it looks like
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│ Zotero PDF Export                                              │
-├──────────────────────┬─────────────────────────────────────────┤
-│ Libraries &          │ Items in: PhD Proposal                  │
-│ collections          │ ┌─────────────────────────────────────┐ │
-│ ▼ 📚 My Library      │ │ ☑  Adesida   2019  Wearable Tech…  │ │
-│   📁 Ethics          │ │ ☐  Afonso    2020  Tactical Periodi│ │
-│   📁 PhD Proposal ←  │ │ ☑  Akenhead  2016  Training Load… │ │
-│   📁 Validation_Art… │ │ ☐  …                                │ │
-│ ▶ 📚 Group Library   │ └─────────────────────────────────────┘ │
-│                      │ [Select all] [Unselect all] [Clear ALL] │
-│                      │ Selected for export: 12 items           │
-├──────────────────────┴─────────────────────────────────────────┤
-│ Output folder: [/Users/me/ZoteroExport            ] [Browse…]  │
-│                              [Export PDFs]   [Quit]            │
-└────────────────────────────────────────────────────────────────┘
-```
-
-> *Tip: drop a real screenshot in here when you have one — name it `screenshot.png` and reference with `![](screenshot.png)`.*
+![Zotero PDF Export — main window](Screenshot.png)
 
 ---
 
